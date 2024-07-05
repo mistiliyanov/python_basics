@@ -4,7 +4,7 @@
 
 ### Useful links: 
 Python install: https://www.python.org/downloads/ <br>
-Anaconda install: https://www.anaconda.com/ <br>
+Anaconda install (**personal computers only**): https://www.anaconda.com/ <br>
 PyCharm install: https://www.jetbrains.com/pycharm/ <br>
 VSCode install: https://code.visualstudio.com/ <br>
 Google Colab: https://colab.research.google.com/ <br>
@@ -36,3 +36,6 @@ PIP Python Package manager: https://pypi.org/project/pip/ <br>
 1. Working with Git and GitHub
 1. Working with APIs
 1. QA and Unit Testing
+
+### Fun corner:
+![What gives people feeling of power?](https://pbs.twimg.com/media/EXL06lWWkAElMxl.jpg)
