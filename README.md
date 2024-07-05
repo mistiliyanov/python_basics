@@ -38,4 +38,5 @@ PIP Python Package manager: https://pypi.org/project/pip/ <br>
 1. QA and Unit Testing
 
 ### Fun corner:
+#### What gives people feeling of power?
 ![What gives people feeling of power?](https://pbs.twimg.com/media/EXL06lWWkAElMxl.jpg)
