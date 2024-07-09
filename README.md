@@ -11,7 +11,7 @@ Google Colab: https://colab.research.google.com/ <br>
 PIP Python Package manager: https://pypi.org/project/pip/ <br>
 
 ### Training Topics:
-1. Introduction to Python and Setup
+1. Introduction to Python and Setup - [quiz](https://docs.google.com/forms/d/e/1FAIpQLSfaqanNcvIUUsWmdhWDr4KzJbEFjLrm9XCvI_iL8w4Y9WSd1A/viewform?usp=sf_link) 
 1. Variables and Data Types
 1. Basic Operations
 1. Strings

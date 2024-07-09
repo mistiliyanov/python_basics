@@ -6,7 +6,7 @@ print('Hello World!')
 ```
 
 ```python
-print("Hello from the Python shell!")
+print("Hello from the text editor!")
 ```
 
 ```python
@@ -24,3 +24,25 @@ def triangle(side):
     for i in range(side):
         print('* ' * (i + 1))
 ```
+
+```bash
+python3 --version 
+```
+
+```bash
+python3 my_python_script.py
+```
+
+```bash
+python3 -m venv venv  
+```
+
+```bash
+source ./venv/bin/activate
+```
+
+```bash
+pip install pandas
+```
+
+
