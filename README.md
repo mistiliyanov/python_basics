@@ -12,7 +12,7 @@ PIP Python Package manager: https://pypi.org/project/pip/ <br>
 
 ### Training Topics:
 1. Introduction to Python and Setup - [quiz](https://docs.google.com/forms/d/e/1FAIpQLSfaqanNcvIUUsWmdhWDr4KzJbEFjLrm9XCvI_iL8w4Y9WSd1A/viewform?usp=sf_link) 
-1. Variables and Data Types
+1. Variables and Data Types - [quiz](https://docs.google.com/forms/d/e/1FAIpQLSd0-wxyMdius2Vy3frBXEwJsXkhow1QJcGp9cFsCVMBBp60bw/viewform?usp=sf_link) 
 1. Basic Operations
 1. Strings
 1. Lists
