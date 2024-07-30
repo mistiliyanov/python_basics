@@ -20,6 +20,10 @@ multiline string"""
 print(multiline_string)
 ```
 
+```python
+print(type(input()))
+```
+
 Concatenation, repetition, and indexing
 
 
@@ -83,7 +87,11 @@ print("Replace:", replaced_text)  # Output:   Java Programming
 words = text.split()
 print("Split:", words)  # Output: ['Python', 'Programming']
 ```
-
+```python
+# List characters
+list_of_chars = list(text)
+print("Split:", list_of_chars) # Output: [' ', ' ', 'P', 'y', 't', 'h', 'o', 'n', ' ', 'P', 'r', 'o', 'g', 'r', 'a', 'm', 'm', 'i', 'n', 'g', ' ', ' ']
+```
 
 Practical Examples
 
