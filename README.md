@@ -15,7 +15,7 @@ PIP Python Package manager: https://pypi.org/project/pip/ <br>
 1. Variables and Data Types - [quiz](https://docs.google.com/forms/d/e/1FAIpQLSd0-wxyMdius2Vy3frBXEwJsXkhow1QJcGp9cFsCVMBBp60bw/viewform?usp=sf_link) 
 1. Basic Operations - [quiz](https://docs.google.com/forms/d/e/1FAIpQLScbz9ueLRax9YtKYJl4cTgzyFDkan2y0Bt6znpjY-N8woyiuQ/viewform?usp=sf_link) 
 1. Strings - [quiz](https://docs.google.com/forms/d/e/1FAIpQLSeuBYzYsXVtRr0jA3Ok6UAw4mW-zVNJGqcgUo8TKWV04Y2qeA/viewform?usp=sf_link) 
-1. Lists
+1. Lists - [quiz](https://docs.google.com/forms/d/e/1FAIpQLSdFiFPPOwuWg7Vj42lti8CHLBp86-1pGB4TcH1szZBbI9dsNw/viewform?usp=sf_link) 
 1. Tuples
 1. Dictionaries
 1. Sets
