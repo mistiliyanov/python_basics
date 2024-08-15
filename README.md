@@ -16,7 +16,7 @@ PIP Python Package manager: https://pypi.org/project/pip/ <br>
 1. Basic Operations - [quiz](https://docs.google.com/forms/d/e/1FAIpQLScbz9ueLRax9YtKYJl4cTgzyFDkan2y0Bt6znpjY-N8woyiuQ/viewform?usp=sf_link) 
 1. Strings - [quiz](https://docs.google.com/forms/d/e/1FAIpQLSeuBYzYsXVtRr0jA3Ok6UAw4mW-zVNJGqcgUo8TKWV04Y2qeA/viewform?usp=sf_link) 
 1. Lists - [quiz](https://docs.google.com/forms/d/e/1FAIpQLSdFiFPPOwuWg7Vj42lti8CHLBp86-1pGB4TcH1szZBbI9dsNw/viewform?usp=sf_link) 
-1. Tuples
+1. Tuples - [quiz](https://docs.google.com/forms/d/e/1FAIpQLScer9Tpy0J_TTU9k9aVPh5IM3ETrqjCnNyClDil6ln2sQf-Ew/viewform?usp=sf_link) 
 1. Dictionaries
 1. Sets
 1. Control Flow - If Statements
@@ -39,5 +39,5 @@ PIP Python Package manager: https://pypi.org/project/pip/ <br>
 
 ### Fun corner:
 ![First steps in learning programming](https://pbs.twimg.com/media/FGJ7f16XoAA_2_i.jpg)
-#### What gives people feeling of power?
+# What gives people feeling of power?
 ![What gives people feeling of power?](https://pbs.twimg.com/media/EXL06lWWkAElMxl.jpg)
