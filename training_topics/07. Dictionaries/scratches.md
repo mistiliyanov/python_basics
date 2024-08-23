@@ -150,4 +150,4 @@ for fruit in fruits:
 print("Fruit count:", fruit_count)
 ```
 
-
+j
