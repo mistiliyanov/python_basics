@@ -18,7 +18,7 @@ PIP Python Package manager: https://pypi.org/project/pip/ <br>
 1. Lists - [quiz](https://docs.google.com/forms/d/e/1FAIpQLSdFiFPPOwuWg7Vj42lti8CHLBp86-1pGB4TcH1szZBbI9dsNw/viewform?usp=sf_link) 
 1. Tuples - [quiz](https://docs.google.com/forms/d/e/1FAIpQLScer9Tpy0J_TTU9k9aVPh5IM3ETrqjCnNyClDil6ln2sQf-Ew/viewform?usp=sf_link) 
 1. Dictionaries - [quiz](https://docs.google.com/forms/d/e/1FAIpQLSd1-Q2v5sPJC4vXAM2g1PiKKGjt4OMttOK48mX1dZEczd7pgg/viewform?usp=sf_link) 
-1. Sets
+1. Sets - [quiz](https://docs.google.com/forms/d/e/1FAIpQLScuJ9zlsgTlR42eLRK-0SoutcbFyzqcWYs0qxJd_alhyH0VgA/viewform?usp=sf_link) 
 1. Control Flow - If Statements
 1. Control Flow - Loops
 1. Functions

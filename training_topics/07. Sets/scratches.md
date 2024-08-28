@@ -83,7 +83,7 @@ Practical Examples
 Example 1: Removing Duplicates from a List
 
 ```python
-Copy code
+
 # Given a list with duplicate elements
 numbers = [1, 2, 2, 3, 4, 4, 5]
 
