@@ -21,7 +21,7 @@ PIP Python Package manager: https://pypi.org/project/pip/ <br>
 1. Sets - [quiz](https://docs.google.com/forms/d/e/1FAIpQLScuJ9zlsgTlR42eLRK-0SoutcbFyzqcWYs0qxJd_alhyH0VgA/viewform?usp=sf_link) 
 1. Control Flow - If Statements - [quiz](https://docs.google.com/forms/d/e/1FAIpQLSfwhCyxOvTWiPcxoevSC_REENhxmhxH9dQ90OLvSnOnqt34Sw/viewform?usp=sf_link)
 1. Control Flow - Loops - [quiz](https://docs.google.com/forms/d/e/1FAIpQLSee0PL1b2Woko2FlKKkippgqrReaRaGc0v7f51NS95vOpdLGQ/viewform?usp=sf_link)
-1. Functions
+1. Functions - [quiz](https://docs.google.com/forms/d/e/1FAIpQLSdR5nBzEQ7csVLqPc2FebHCKb909GVqlq0fhWHieorJ0XUPRw/viewform?usp=sf_link)
 1. Scope and Lifetime of Variables
 1. Modules and Packages
 1. File Handling
