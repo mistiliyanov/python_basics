@@ -1,4 +1,4 @@
-Scope and Lifetime of Variables
+Modules and Packages
 
 Importing Modules
 
