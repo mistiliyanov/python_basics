@@ -1,0 +1,1 @@
+To work with files in Python, you must first open them using the built-in open() function. After finishing with the file, it’s important to close it to free up system resources.
