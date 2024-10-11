@@ -12,6 +12,7 @@ file.close()
 "w": Write (overwrites)
 "a": Append (adds data to the end)
 "r+": Read and write
+"b": binary
 
 ```python
 file = open("example.txt", "r")
