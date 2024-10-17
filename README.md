@@ -25,7 +25,7 @@ PIP Python Package manager: https://pypi.org/project/pip/ <br>
 1. Scope and Lifetime of Variables - [quiz](https://docs.google.com/forms/d/e/1FAIpQLSda6WRVHz_eKpQQwR1jtrvUXaYM19ST9hr-bla3xRIDqqca1g/viewform?usp=sf_link)
 1. Modules and Packages - [quiz](https://docs.google.com/forms/d/e/1FAIpQLSd3ifq5nQXiI2KPcwkqYrNeljKCrZMIEDJuTh_ZsorSqZjfmw/viewform?usp=sf_link)
 1. File Handling - [quiz](https://docs.google.com/forms/d/e/1FAIpQLSfI7fX5QMFNUY9NFDiBEaMeC_q00NVFJdFRM7C4Bpkbz9-LKw/viewform?usp=sf_link)
-1. Error Handling
+1. Error Handling - [quiz](https://docs.google.com/forms/d/e/1FAIpQLSfs9B3msQAoAotHICaUZ9ZAx_xJaVSjPCzIaxeN76SkKwRPaw/viewform?usp=sf_link)
 1. List Comprehensions
 1. Lambda Functions
 1. Map, Filter, Reduce
