@@ -41,3 +41,5 @@ PIP Python Package manager: https://pypi.org/project/pip/ <br>
 ![First steps in learning programming](https://pbs.twimg.com/media/FGJ7f16XoAA_2_i.jpg)
 # What gives people feeling of power?
 ![What gives people feeling of power?](https://pbs.twimg.com/media/EXL06lWWkAElMxl.jpg)
+# Learning curve
+![Coding learning curve](training_topics/00_media/image.png)
