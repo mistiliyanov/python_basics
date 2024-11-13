@@ -1,6 +1,6 @@
 # Python Basics
 ### Why Python?
-![Top Programming Languages 2023](https://github.blog/wp-content/uploads/2023/11/top-programming-languages-2023.png?resize=3840%2C2160)
+![Top Programming Languages 2023](https://regmedia.co.uk/2024/11/04/github-octoverse-2024-top-languages.jpg?x=648&y=648&infer_y=1)
 
 ### Useful links: 
 Python install: https://www.python.org/downloads/ <br>
