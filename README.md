@@ -26,11 +26,11 @@ PIP Python Package manager: https://pypi.org/project/pip/ <br>
 1. Modules and Packages - [quiz](https://docs.google.com/forms/d/e/1FAIpQLSd3ifq5nQXiI2KPcwkqYrNeljKCrZMIEDJuTh_ZsorSqZjfmw/viewform?usp=sf_link)
 1. File Handling - [quiz](https://docs.google.com/forms/d/e/1FAIpQLSfI7fX5QMFNUY9NFDiBEaMeC_q00NVFJdFRM7C4Bpkbz9-LKw/viewform?usp=sf_link)
 1. Error Handling - [quiz](https://docs.google.com/forms/d/e/1FAIpQLSfs9B3msQAoAotHICaUZ9ZAx_xJaVSjPCzIaxeN76SkKwRPaw/viewform?usp=sf_link)
-1. List Comprehensions
-1. Lambda Functions
-1. Map, Filter, Reduce
-1. Object-Oriented Programming (OOP) Basics
-1. Advanced OOP Concepts
+1. List Comprehensions - [quiz](https://docs.google.com/forms/d/e/1FAIpQLSdDzqUexGE1ihRlePSxagTAlqMgsQzVXy2Oa75e0hHEd-09cQ/viewform?usp=sf_link)
+1. Lambda Functions - [quiz](https://docs.google.com/forms/d/e/1FAIpQLSej7BhFxVmNdVJ3G7R2fREtGvni4GIxIorYkH931vY4ycxuxw/viewform?usp=sf_link)
+1. Map, Filter, Reduce - [quiz](https://docs.google.com/forms/d/e/1FAIpQLSdnzLNZc30qPYPjJ4-3k6eaIMuaHqlZzdUzZQLZm9uFh8DRoA/viewform?usp=sf_link)
+1. Object-Oriented Programming (OOP) Basics - [quiz](https://docs.google.com/forms/d/e/1FAIpQLSfhqts9BG6-wYjIpkLnOZjI0WSBYseaQ0SgJaZVLpAUVxHIDA/viewform?usp=sf_link)
+1. Advanced OOP Concepts - [quiz](https://docs.google.com/forms/d/e/1FAIpQLSeKpbjM7QXhbKBy9vHgq9Q5mmr_mEQ494sLKUjetZXjO2HLLg/viewform?usp=sf_link)
 
 ### Bonus tracks:
 1. Working with Git and GitHub
